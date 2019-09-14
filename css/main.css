@@ -1,0 +1,42 @@
+* {
+	font-family: helvetica, sans-serif;
+	
+}
+.purple {
+	color: #c9a1c9;
+	font-size: 17px;
+}
+.blue {
+	color: #6678ff;
+	font-size: 24px;
+	text-align: center;
+
+}
+.white{
+	color: #d1dfe0;
+	font-size: 32px;
+}
+.siniy{
+	color: #001be8;
+	font-size: 32px;
+}
+.red {
+	color: #e61219;
+	font-size: 32px;
+}
+.container {
+	width: 1140;
+	text-align: center;
+	margin: 0 auto;
+	margin: 10px 60px 30px 60px; /* по часовой стрелке*/
+	
+}
+.main_content {
+	margin: 0 auto;
+	height: 600;
+	width: 431;
+}
+
+
+
+
